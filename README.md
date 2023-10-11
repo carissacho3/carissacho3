@@ -1,6 +1,6 @@
 -  Hi, I’m Carissa Cho!
 - I’m interested in doing full stack developer!
-- Programming Languages: C, C++, JavaScript, HTML, Node.js, CSS, Python
+- Programming Languages: C, C++, JavaScript, HTML, Node.js, CSS, Python, Java, C#
 - Web Development: React, REST API, Jest, Cypress
 - Databases: SQL (Oracle, MySQL), MongoDB
 - Operating Systems: Linux, Windows
